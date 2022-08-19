@@ -1,0 +1,9 @@
+﻿id,name,order,ring_size,benzylic,allylic,homoallylic,homobenzylic,alpha_carbonyl,beta_carbonyl,hemiacetal,alpha_amino
+1,1al,primary,0,1,0,0,0,0,0,0,0
+2,1am,primary,0,1,0,0,0,0,0,0,0
+3,1am2,primary,0,1,0,0,0,0,0,0,0
+4,1an,secondary,5,0,0,0,0,0,0,0,0
+5,1ao,primary,0,1,0,0,0,0,0,0,0
+6,1ap,primary,0,1,0,0,0,0,0,0,0
+7,1aq,primary,0,1,0,0,0,0,0,0,0
+8,1ar,primary,0,1,0,0,0,0,0,0,0
